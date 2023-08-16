@@ -1,0 +1,13 @@
+python=3.10.9
+pytorch-lightning
+matplotlib
+numpy
+numba
+seaborn
+pypinyin
+pyworld
+PyYAML
+scikit-learn
+scipy
+torch
+torchaudio
