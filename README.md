@@ -1,3 +1,5 @@
 # Use_CaseFootB
 
-to run python3 Create_game.py match_1 model3.pt output_predictions.json label_encoder.pkl
+Before starting to use you need to install all packages in the requirements.txt
+
+to use the model run this command: python3 Create_game.py Dataset_path, model_path, output_path, label_enc_path.
