@@ -1,4 +1,5 @@
 python=3.10.9
+pytorch=2.0.1=py3.10_cpu_0
 pytorch-lightning
 matplotlib
 numpy
@@ -10,4 +11,3 @@ PyYAML
 scikit-learn
 scipy
 torch
-torchaudio
